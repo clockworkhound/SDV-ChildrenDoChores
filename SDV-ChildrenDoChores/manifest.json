@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Children Do Chores",
+  "Author": "clockworkhound",
+  "Version": "1.0.0",
+  "Description": "Make your children do your work for you.",
+  "UniqueID": "clockworkhound.ChildrenDoChores",
+  "EntryDll": "ChildrenDoChores.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
